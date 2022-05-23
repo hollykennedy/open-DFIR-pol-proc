@@ -32,6 +32,10 @@ All lab policies must be initialed before work on an item can begin.
 
 ### Victim Name(s)
 
+### Case Synopsis
+
+### Legal Authority for Casework (copies must be submitted with intake form)
+
 ## Item Information
 
 ### Item Make and Model
