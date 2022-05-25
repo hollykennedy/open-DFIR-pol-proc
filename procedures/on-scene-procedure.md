@@ -10,7 +10,7 @@
 
 * Modern electronic devices often have security protections beyond passcodes alone. Locked devices may become more difficult or impossible to unlock as time passes, if too many unlock attempts are made, or if power to the device is interrupted. Devices found powered on should be transported while connected to a power source whenever possible (e.g., portable power bank).
 
-* Devices found unlocked should be maintained in an unlocked state to preserve evidence by changing the device security settings or by using hardware such as mouse jigglers. All such actions should be documented.
+* Devices seized while unlocked should be maintained in an unlocked state to preserve evidence. This may be accomplished by changing the device security settings or by using hardware such as mouse jigglers. All such actions should be documented.
 
 * If legal authorization permits, biometrics may be used to unlock devices. The window of opportunity for these access methods is often relatively short, so they should be used as soon as possible.
 
