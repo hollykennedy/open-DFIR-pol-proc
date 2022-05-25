@@ -11,3 +11,7 @@ _I understand that I am giving this consent freely. No promises or threats have 
 **Name**
 
 **Signature**
+
+## Device Information
+
+## Account Information
