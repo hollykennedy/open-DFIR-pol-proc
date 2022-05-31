@@ -2,8 +2,6 @@
 
 Please fill out the form as completely as possible. No item(s) will be accepted without an intake form.
 
-A portable hard drive large enough to accommodate the forensic images and extractions acquired as well as any reports produced must be left with the item(s). No item(s) will be accepted without a drive large enough for the digital evidence.
-
 All AGENCY policies must be initialed before work on an item can begin.
 
 ## Contact Information
