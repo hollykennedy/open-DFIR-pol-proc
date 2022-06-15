@@ -1,1 +1,3 @@
+# Corporate Devices
 
+Determine what policy the user of the device violated. Based on how severe the violation was a retention period should be defined by the company. An example would be if a user was accused of having inappropriate images on their device. The company would seize the device, image, and conduct analysis. After the case has concluded the <strong>image</strong> would be retained for 90 days then secure deleted. The storage media or mobile device should be retained for the same amount of time if deemed necessary. However, if the violation could potentially become criminal the evidence (i.e. image and hardware) should be retained for 5 - 7 years. 
